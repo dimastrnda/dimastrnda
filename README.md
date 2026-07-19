@@ -1,4 +1,4 @@
-# Hi, I'm Dimas Trinanda 👋
+# Hi, I'm Dimas Trinanda
 
 Information Systems Graduate from Universitas Amikom Yogyakarta
 
