@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Dimas Trinanda 👋
 
-<!--
-**dimastrnda/dimastrnda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems Graduate from Universitas Amikom Yogyakarta with Cumlaude honors (GPA 3.61/4.00).
 
-Here are some ideas to get you started:
+I enjoy learning about web development and information systems. During college, I developed several academic web application projects using PHP, CodeIgniter 3, MySQL, HTML, CSS, JavaScript, and Bootstrap. I am always interested in learning new technologies and improving my skills through real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- PHP
+- CodeIgniter 3
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- MySQL
+
+## 🚀 Featured Projects
+
+### 🛒 Kasir SeleraMuda
+A web-based cashier information system developed as my final project using PHP, CodeIgniter 3, MySQL, and Agile methodology.
+
+### 🍽 Kuliner.ID
+A culinary information website developed collaboratively using CodeIgniter 3 and MySQL.
+
+### 👕 Hoodie E-Commerce
+A web-based e-commerce application with RajaOngkir API integration for shipping cost calculation.
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/dimastrinanda
+- Email: dimastrinanda73@gmail.com
